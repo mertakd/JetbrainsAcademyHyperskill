@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/OOPBasic/Constructors/Constructors.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OOP/OOPBasic/DeclaringClasses/DeclaringClasses.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/MyFirstProjectWithKotlin/MyFirstProjectWithKotlinStage1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/MyFirstProjectWithKotlin/MyFirstProjectWithKotlinStage2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/MyFirstProjectWithKotlin/MyFirstProjectWithKotlinStage3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,29 +28,51 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mertakd"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mertakd/JetbrainsAcademyHyperskill.git",
+    "accountId": "1a8cec55-4c27-4acc-b03d-2420b8cd81f7"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="2eXtDHNCaPF95dbjalJwOQOxqO1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Build JetbrainsAcademyHyperskill.executor": "Run",
+    "Kotlin.MyFirstProjectWithKotlinKt.executor": "Debug",
+    "Kotlin.MyFirstProjectWithKotlinStage2Kt.executor": "Run",
+    "Kotlin.MyFirstProjectWithKotlinStage3Kt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -55,7 +81,7 @@
       <recent name="C:\Users\mert_\Documents\GithubProjects\JetBrainsAcademyHyperskill\JetbrainsAcademyHyperskill\src\main\kotlin\OOP\OOPBasic\DeclaringClasses" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ConstructorsKt">
+  <component name="RunManager" selected="Kotlin.MyFirstProjectWithKotlinStage3Kt">
     <configuration name="ConstructorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.OOPBasic.Constructors.ConstructorsKt" />
       <module name="JetbrainsAcademyHyperskill.main" />
@@ -70,8 +96,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyFirstProjectWithKotlinStage1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projects.MyFirstProjectWithKotlin.MyFirstProjectWithKotlinStage1Kt" />
+      <module name="JetbrainsAcademyHyperskill.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFirstProjectWithKotlinStage2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projects.MyFirstProjectWithKotlin.MyFirstProjectWithKotlinStage2Kt" />
+      <module name="JetbrainsAcademyHyperskill.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFirstProjectWithKotlinStage3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projects.MyFirstProjectWithKotlin.MyFirstProjectWithKotlinStage3Kt" />
+      <module name="JetbrainsAcademyHyperskill.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MyFirstProjectWithKotlinStage3Kt" />
+        <item itemvalue="Kotlin.MyFirstProjectWithKotlinStage2Kt" />
+        <item itemvalue="Kotlin.MyFirstProjectWithKotlinStage1Kt" />
         <item itemvalue="Kotlin.ConstructorsKt" />
         <item itemvalue="Kotlin.FundamentalsKt" />
       </list>
