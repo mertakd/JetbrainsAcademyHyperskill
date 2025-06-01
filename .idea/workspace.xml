@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="InvokingFunctions.kt Questions">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Zookeeper/ZookeeperProjects/Stage1RushIntoPrint.kt" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="Zookeeper Stage1RushIntoPrint.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Zookeeper/ZookeeperTopics/StandardInputWithJavaScanner.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Kotlin.MyFirstProjectWithKotlinStage2Kt.executor": "Run",
     "Kotlin.MyFirstProjectWithKotlinStage3Kt.executor": "Run",
     "Kotlin.Stage1RushIntoPrintKt.executor": "Run",
+    "Kotlin.StandardInputWithJavaScannerKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -76,16 +77,9 @@
       <recent name="C:\Users\mert_\Documents\GithubProjects\JetBrainsAcademyHyperskill\JetbrainsAcademyHyperskill\src\main\kotlin\OOP\OOPBasic\DeclaringClasses" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Stage1RushIntoPrintKt">
+  <component name="RunManager" selected="Kotlin.StandardInputWithJavaScannerKt">
     <configuration name="InvokingFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Projects.Zookeeper.ZookeeperTopics.InvokingFunctionsKt" />
-      <module name="JetbrainsAcademyHyperskill.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyFirstProjectWithKotlinStage1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Projects.MyFirstProjectWithKotlin.MyFirstProjectWithKotlinStage1Kt" />
       <module name="JetbrainsAcademyHyperskill.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,13 +106,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StandardInputWithJavaScannerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projects.Zookeeper.ZookeeperTopics.StandardInputWithJavaScannerKt" />
+      <module name="JetbrainsAcademyHyperskill.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StandardInputWithJavaScannerKt" />
         <item itemvalue="Kotlin.Stage1RushIntoPrintKt" />
         <item itemvalue="Kotlin.InvokingFunctionsKt" />
         <item itemvalue="Kotlin.MyFirstProjectWithKotlinStage3Kt" />
         <item itemvalue="Kotlin.MyFirstProjectWithKotlinStage2Kt" />
-        <item itemvalue="Kotlin.MyFirstProjectWithKotlinStage1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748134080830</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Zookeeper Stage1RushIntoPrint.kt">
+      <option name="closed" value="true" />
+      <created>1748205804291</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748205804291</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +175,7 @@
     <MESSAGE value="My First Project With Kotlin" />
     <MESSAGE value="ConstantsAndValVariables.kt" />
     <MESSAGE value="InvokingFunctions.kt Questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="InvokingFunctions.kt Questions" />
+    <MESSAGE value="Zookeeper Stage1RushIntoPrint.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zookeeper Stage1RushIntoPrint.kt" />
   </component>
 </project>
