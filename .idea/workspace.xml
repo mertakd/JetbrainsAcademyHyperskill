@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="Zookeeper Stage1RushIntoPrint.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Zookeeper/ZookeeperTopics/StandardInputWithJavaScanner.kt" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="Zookeeper Stage2ShowMeAnAnimal.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Zookeeper/ZookeeperProjects/Stage3WhatsInside.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,9 @@
     "Kotlin.MyFirstProjectWithKotlinKt.executor": "Debug",
     "Kotlin.MyFirstProjectWithKotlinStage2Kt.executor": "Run",
     "Kotlin.MyFirstProjectWithKotlinStage3Kt.executor": "Run",
+    "Kotlin.Satage2ShowMeAnAnimalKt.executor": "Run",
     "Kotlin.Stage1RushIntoPrintKt.executor": "Run",
+    "Kotlin.Stage3WhatsInsideKt.executor": "Run",
     "Kotlin.StandardInputWithJavaScannerKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -77,7 +79,7 @@
       <recent name="C:\Users\mert_\Documents\GithubProjects\JetBrainsAcademyHyperskill\JetbrainsAcademyHyperskill\src\main\kotlin\OOP\OOPBasic\DeclaringClasses" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.StandardInputWithJavaScannerKt">
+  <component name="RunManager" selected="Kotlin.Stage3WhatsInsideKt">
     <configuration name="InvokingFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Projects.Zookeeper.ZookeeperTopics.InvokingFunctionsKt" />
       <module name="JetbrainsAcademyHyperskill.main" />
@@ -85,15 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFirstProjectWithKotlinStage2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Projects.MyFirstProjectWithKotlin.MyFirstProjectWithKotlinStage2Kt" />
-      <module name="JetbrainsAcademyHyperskill.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyFirstProjectWithKotlinStage3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Projects.MyFirstProjectWithKotlin.MyFirstProjectWithKotlinStage3Kt" />
+    <configuration name="Satage2ShowMeAnAnimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projects.Zookeeper.ZookeeperProjects.Satage2ShowMeAnAnimalKt" />
       <module name="JetbrainsAcademyHyperskill.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,6 +96,13 @@
     </configuration>
     <configuration name="Stage1RushIntoPrintKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Projects.Zookeeper.ZookeeperProjects.Stage1RushIntoPrintKt" />
+      <module name="JetbrainsAcademyHyperskill.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stage3WhatsInsideKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projects.Zookeeper.ZookeeperProjects.Stage3WhatsInsideKt" />
       <module name="JetbrainsAcademyHyperskill.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Stage3WhatsInsideKt" />
+        <item itemvalue="Kotlin.Satage2ShowMeAnAnimalKt" />
         <item itemvalue="Kotlin.StandardInputWithJavaScannerKt" />
         <item itemvalue="Kotlin.Stage1RushIntoPrintKt" />
         <item itemvalue="Kotlin.InvokingFunctionsKt" />
-        <item itemvalue="Kotlin.MyFirstProjectWithKotlinStage3Kt" />
-        <item itemvalue="Kotlin.MyFirstProjectWithKotlinStage2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748205804291</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Zookeeper Stage2ShowMeAnAnimal.kt">
+      <option name="closed" value="true" />
+      <created>1748789618529</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748789618529</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +186,7 @@
     <MESSAGE value="ConstantsAndValVariables.kt" />
     <MESSAGE value="InvokingFunctions.kt Questions" />
     <MESSAGE value="Zookeeper Stage1RushIntoPrint.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zookeeper Stage1RushIntoPrint.kt" />
+    <MESSAGE value="Zookeeper Stage2ShowMeAnAnimal.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zookeeper Stage2ShowMeAnAnimal.kt" />
   </component>
 </project>
