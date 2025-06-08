@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="IfExpression Quiz">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Zookeeper/ZookeeperTopics/LoopsRepeatStatement.kt" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="LoopsRepeatStatement.kt Quiz">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Zookeeper/ZookeeperTopics/WhileLoops.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,7 @@
     "Kotlin.Stage1RushIntoPrintKt.executor": "Run",
     "Kotlin.Stage3WhatsInsideKt.executor": "Run",
     "Kotlin.StandardInputWithJavaScannerKt.executor": "Run",
+    "Kotlin.WhileLoopsKt.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -81,7 +82,7 @@
       <recent name="C:\Users\mert_\Documents\GithubProjects\JetBrainsAcademyHyperskill\JetbrainsAcademyHyperskill\src\main\kotlin\OOP\OOPBasic\DeclaringClasses" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.LoopsRepeatStatementKt">
+  <component name="RunManager" selected="Kotlin.WhileLoopsKt">
     <configuration name="IfExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Projects.Zookeeper.ZookeeperTopics.IfExpressionKt" />
       <module name="JetbrainsAcademyHyperskill.main" />
@@ -110,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StandardInputWithJavaScannerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Projects.Zookeeper.ZookeeperTopics.StandardInputWithJavaScannerKt" />
+    <configuration name="WhileLoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projects.Zookeeper.ZookeeperTopics.WhileLoopsKt" />
       <module name="JetbrainsAcademyHyperskill.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.WhileLoopsKt" />
         <item itemvalue="Kotlin.LoopsRepeatStatementKt" />
         <item itemvalue="Kotlin.IfExpressionKt" />
         <item itemvalue="Kotlin.Stage3WhatsInsideKt" />
         <item itemvalue="Kotlin.Satage2ShowMeAnAnimalKt" />
-        <item itemvalue="Kotlin.StandardInputWithJavaScannerKt" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749298106305</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="LoopsRepeatStatement.kt Quiz">
+      <option name="closed" value="true" />
+      <created>1749315344336</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1749315344336</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +233,7 @@
     <MESSAGE value="Zookeeper Stage3WhatsInside.kt" />
     <MESSAGE value="IfExpression.kt 1" />
     <MESSAGE value="IfExpression Quiz" />
-    <option name="LAST_COMMIT_MESSAGE" value="IfExpression Quiz" />
+    <MESSAGE value="LoopsRepeatStatement.kt Quiz" />
+    <option name="LAST_COMMIT_MESSAGE" value="LoopsRepeatStatement.kt Quiz" />
   </component>
 </project>
