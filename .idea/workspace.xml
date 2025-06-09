@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="WhileLoops.kt Quizz">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Zookeeper/ZookeeperProjects/GoFk.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Zookeeper/ZookeeperProjects/Stage4SustainableCare.kt" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="Zookeeper Finished">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotProject/SimpleChatBotStage1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/InvokingFunctionsQuiz.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/InvokingFunctionsTopic.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="kotlin.jupyter.empty" />
         <option value="Kotlin File" />
+        <option value="kotlin.jupyter.empty" />
       </list>
     </option>
   </component>
@@ -61,6 +62,7 @@
     "Kotlin.MyFirstProjectWithKotlinStage2Kt.executor": "Run",
     "Kotlin.MyFirstProjectWithKotlinStage3Kt.executor": "Run",
     "Kotlin.Satage2ShowMeAnAnimalKt.executor": "Run",
+    "Kotlin.SimpleChatBotStage1Kt.executor": "Run",
     "Kotlin.Stage1RushIntoPrintKt.executor": "Run",
     "Kotlin.Stage3WhatsInsideKt.executor": "Run",
     "Kotlin.Stage4SustainableCareKt.executor": "Run",
@@ -77,7 +79,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "settings.editor.selected.configurable": "kotlinNotebook",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -86,7 +88,7 @@
       <recent name="C:\Users\mert_\Documents\GithubProjects\JetBrainsAcademyHyperskill\JetbrainsAcademyHyperskill\src\main\kotlin\OOP\OOPBasic\DeclaringClasses" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.GoFkKt">
+  <component name="RunManager">
     <configuration name="GoFkKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Projects.Zookeeper.ZookeeperProjects.GoFkKt" />
       <module name="JetbrainsAcademyHyperskill.main" />
@@ -94,15 +96,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Projects.Zookeeper.ZookeeperTopics.IfExpressionKt" />
+    <configuration name="LoopsRepeatStatementKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projects.Zookeeper.ZookeeperTopics.LoopsRepeatStatementKt" />
       <module name="JetbrainsAcademyHyperskill.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopsRepeatStatementKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Projects.Zookeeper.ZookeeperTopics.LoopsRepeatStatementKt" />
+    <configuration name="SimpleChatBotStage1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projects.SimpleChatBot.SimpleChatBotProject.SimpleChatBotStage1Kt" />
       <module name="JetbrainsAcademyHyperskill.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SimpleChatBotStage1Kt" />
         <item itemvalue="Kotlin.GoFkKt" />
         <item itemvalue="Kotlin.Stage4SustainableCareKt" />
         <item itemvalue="Kotlin.WhileLoopsKt" />
         <item itemvalue="Kotlin.LoopsRepeatStatementKt" />
-        <item itemvalue="Kotlin.IfExpressionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +240,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749472173740</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Zookeeper Finished">
+      <option name="closed" value="true" />
+      <created>1749474720457</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1749474720457</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +266,8 @@
     <MESSAGE value="LoopsRepeatStatement.kt Quiz" />
     <MESSAGE value="WhileLoops.kt" />
     <MESSAGE value="WhileLoops.kt Quizz" />
-    <option name="LAST_COMMIT_MESSAGE" value="WhileLoops.kt Quizz" />
+    <MESSAGE value="Zookeeper Finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zookeeper Finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
