@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="Zookeeper Finished">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotProject/SimpleChatBotStage1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/InvokingFunctionsQuiz.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/InvokingFunctionsTopic.ipynb" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="StandardInputWithJavaScannerQuiz.ipynb">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/StandardInputWithJavaScannerQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/StandardInputWithJavaScannerQuiz.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,44 +49,44 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Build JetbrainsAcademyHyperskill.executor": "Run",
-    "Kotlin.GoKt.executor": "Run",
-    "Kotlin.IfExpressionKt.executor": "Run",
-    "Kotlin.InvokingFunctionsKt.executor": "Run",
-    "Kotlin.LoopsRepeatStatementKt.executor": "Run",
-    "Kotlin.MyFirstProjectWithKotlinKt.executor": "Debug",
-    "Kotlin.MyFirstProjectWithKotlinStage2Kt.executor": "Run",
-    "Kotlin.MyFirstProjectWithKotlinStage3Kt.executor": "Run",
-    "Kotlin.Satage2ShowMeAnAnimalKt.executor": "Run",
-    "Kotlin.SimpleChatBotStage1Kt.executor": "Run",
-    "Kotlin.Stage1RushIntoPrintKt.executor": "Run",
-    "Kotlin.Stage3WhatsInsideKt.executor": "Run",
-    "Kotlin.Stage4SustainableCareKt.executor": "Run",
-    "Kotlin.StandardInputWithJavaScannerKt.executor": "Run",
-    "Kotlin.WhileLoopsKt.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "kotlinNotebook",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build JetbrainsAcademyHyperskill.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.GoKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.IfExpressionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.InvokingFunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.LoopsRepeatStatementKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MyFirstProjectWithKotlinKt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin.MyFirstProjectWithKotlinStage2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MyFirstProjectWithKotlinStage3Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Satage2ShowMeAnAnimalKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SimpleChatBotStage1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Stage1RushIntoPrintKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Stage3WhatsInsideKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Stage4SustainableCareKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.StandardInputWithJavaScannerKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.WhileLoopsKt.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;kotlinNotebook&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mert_\Documents\GithubProjects\JetBrainsAcademyHyperskill\JetbrainsAcademyHyperskill\src\main\kotlin\OOP\OOPBasic\DeclaringClasses" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.GoFkKt">
     <configuration name="GoFkKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Projects.Zookeeper.ZookeeperProjects.GoFkKt" />
       <module name="JetbrainsAcademyHyperskill.main" />
@@ -248,7 +246,31 @@
       <option name="project" value="LOCAL" />
       <updated>1749474720457</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="InvokingFunctionsTopic.ipynb&#10;InvokingFunctionsQuiz.ipynb&#10;SimpleChatBotStage1.kt">
+      <option name="closed" value="true" />
+      <created>1749506900628</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1749506900628</updated>
+    </task>
+    <task id="LOCAL-00015" summary="StandardInputWithJavaScannerTopic.ipynb">
+      <option name="closed" value="true" />
+      <created>1749508925951</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1749508925951</updated>
+    </task>
+    <task id="LOCAL-00016" summary="StandardInputWithJavaScannerQuiz.ipynb">
+      <option name="closed" value="true" />
+      <created>1749639685285</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1749639685285</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,7 +289,10 @@
     <MESSAGE value="WhileLoops.kt" />
     <MESSAGE value="WhileLoops.kt Quizz" />
     <MESSAGE value="Zookeeper Finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zookeeper Finished" />
+    <MESSAGE value="InvokingFunctionsTopic.ipynb&#10;InvokingFunctionsQuiz.ipynb&#10;SimpleChatBotStage1.kt" />
+    <MESSAGE value="StandardInputWithJavaScannerTopic.ipynb" />
+    <MESSAGE value="StandardInputWithJavaScannerQuiz.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="StandardInputWithJavaScannerQuiz.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
