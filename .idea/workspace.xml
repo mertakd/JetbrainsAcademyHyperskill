@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="CommentsTopic.ipynb&#10;CommentsQuiz.ipynb">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/KotlinStyleGuideQuiz.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/KotlinStyleGuideTopic.ipynb" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="KotlinStyleGuideTopic.ipynb&#10;KotlinStyleGuideQuiz.ipynb">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/NamingVariableQuiz.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/NamingVariablesTopic.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -348,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750099766435</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="KotlinStyleGuideTopic.ipynb&#10;KotlinStyleGuideQuiz.ipynb">
+      <option name="closed" value="true" />
+      <created>1750100790532</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1750100790532</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,7 +386,8 @@
     <MESSAGE value="ConstantsAndValVariablesTopic.ipynb&#10;ConstantsAndValVariablesQuiz.ipynb" />
     <MESSAGE value="DataTypesTopic.ipynb&#10;DataTypesQuiz.ipynb" />
     <MESSAGE value="CommentsTopic.ipynb&#10;CommentsQuiz.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="CommentsTopic.ipynb&#10;CommentsQuiz.ipynb" />
+    <MESSAGE value="KotlinStyleGuideTopic.ipynb&#10;KotlinStyleGuideQuiz.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="KotlinStyleGuideTopic.ipynb&#10;KotlinStyleGuideQuiz.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
