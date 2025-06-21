@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="import">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/StringTemplates/StringTemplatesQuiz.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/StringTemplates/StringTemplatesTopic.ipynb" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="StringTemplatesTopic.ipynb&#10;StringTemplatesQuiz.ipynb">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/BooleanTypeAndOperations/BooleanTypeAndOperationsQuiz.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/BooleanTypeAndOperations/BooleanTypeAndOperationsTopic.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -372,14 +372,21 @@
       <option name="project" value="LOCAL" />
       <updated>1750349048460</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="StringTemplatesTopic.ipynb&#10;StringTemplatesQuiz.ipynb">
+      <option name="closed" value="true" />
+      <created>1750352837904</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1750352837904</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ConstantsAndValVariables.kt" />
     <MESSAGE value="InvokingFunctions.kt Questions" />
     <MESSAGE value="Zookeeper Stage1RushIntoPrint.kt" />
     <MESSAGE value="Zookeeper Stage2ShowMeAnAnimal.kt" />
@@ -404,7 +411,8 @@
     <MESSAGE value="KotlinStyleGuideTopic.ipynb&#10;KotlinStyleGuideQuiz.ipynb" />
     <MESSAGE value="NamingVariablesTopic.ipynb&#10;NamingVariableQuiz.ipynb" />
     <MESSAGE value="import" />
-    <option name="LAST_COMMIT_MESSAGE" value="import" />
+    <MESSAGE value="StringTemplatesTopic.ipynb&#10;StringTemplatesQuiz.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="StringTemplatesTopic.ipynb&#10;StringTemplatesQuiz.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
