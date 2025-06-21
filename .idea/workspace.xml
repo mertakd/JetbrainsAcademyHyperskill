@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="BooleanTypeAndOperationsTopic.ipynb,&#10;BooleanTypeAndOperationsQuiz.ipynb">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/ArithmeticOperations/ArithmeticOperationsQuiz.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/ArithmeticOperations/ArithmeticOperationsTopic.ipynb" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="ArithmeticOperationsTopic.ipynb&#10;ArithmeticOperationsQuiz.ipynb">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/IncrementAndDecrement/IncrementAndDecrementQuiz.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/IncrementAndDecrement/IncrementAndDecrementTopic.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -388,14 +388,21 @@
       <option name="project" value="LOCAL" />
       <updated>1750529941869</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="ArithmeticOperationsTopic.ipynb&#10;ArithmeticOperationsQuiz.ipynb">
+      <option name="closed" value="true" />
+      <created>1750532837073</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1750532837073</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zookeeper Stage1RushIntoPrint.kt" />
     <MESSAGE value="Zookeeper Stage2ShowMeAnAnimal.kt" />
     <MESSAGE value="Zookeeper Stage3WhatsInside.kt" />
     <MESSAGE value="IfExpression.kt 1" />
@@ -420,7 +427,8 @@
     <MESSAGE value="import" />
     <MESSAGE value="StringTemplatesTopic.ipynb&#10;StringTemplatesQuiz.ipynb" />
     <MESSAGE value="BooleanTypeAndOperationsTopic.ipynb,&#10;BooleanTypeAndOperationsQuiz.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="BooleanTypeAndOperationsTopic.ipynb,&#10;BooleanTypeAndOperationsQuiz.ipynb" />
+    <MESSAGE value="ArithmeticOperationsTopic.ipynb&#10;ArithmeticOperationsQuiz.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArithmeticOperationsTopic.ipynb&#10;ArithmeticOperationsQuiz.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
