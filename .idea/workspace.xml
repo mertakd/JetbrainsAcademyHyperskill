@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="IncrementAndDecrementTopic.ipynb&#10;IncrementAndDecrementQuiz.ipynb">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/PropertiesOfBasicTypes/PropertiesOfBasicTypesQuiz.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/PropertiesOfBasicTypes/PropertiesOfBasicTypesTopic.ipynb" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="PropertiesOfBasicTypesTopic.ipynb&#10;PropertiesOfBasicTypesQuiz.ipynb">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/TypeConversion/TypeConversionQuiz.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/TypeConversion/TypeConversionTopic.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +23,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Kotlin File" />
         <option value="package-info" />
+        <option value="Kotlin File" />
         <option value="kotlin.jupyter.empty" />
       </list>
     </option>
@@ -404,14 +404,21 @@
       <option name="project" value="LOCAL" />
       <updated>1750534919501</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="PropertiesOfBasicTypesTopic.ipynb&#10;PropertiesOfBasicTypesQuiz.ipynb">
+      <option name="closed" value="true" />
+      <created>1752957034652</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1752957034652</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zookeeper Stage3WhatsInside.kt" />
     <MESSAGE value="IfExpression.kt 1" />
     <MESSAGE value="IfExpression Quiz" />
     <MESSAGE value="LoopsRepeatStatement.kt Quiz" />
@@ -436,7 +443,8 @@
     <MESSAGE value="BooleanTypeAndOperationsTopic.ipynb,&#10;BooleanTypeAndOperationsQuiz.ipynb" />
     <MESSAGE value="ArithmeticOperationsTopic.ipynb&#10;ArithmeticOperationsQuiz.ipynb" />
     <MESSAGE value="IncrementAndDecrementTopic.ipynb&#10;IncrementAndDecrementQuiz.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="IncrementAndDecrementTopic.ipynb&#10;IncrementAndDecrementQuiz.ipynb" />
+    <MESSAGE value="PropertiesOfBasicTypesTopic.ipynb&#10;PropertiesOfBasicTypesQuiz.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="PropertiesOfBasicTypesTopic.ipynb&#10;PropertiesOfBasicTypesQuiz.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
