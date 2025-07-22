@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="PropertiesOfBasicTypesTopic.ipynb&#10;PropertiesOfBasicTypesQuiz.ipynb">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/ReadingDataWithReadln/ReadingDataWithReadlnQuiz.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/ReadingDataWithReadln/ReadingDataWithReadlnTopic.ipynb" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="ReadingDataWithReadlnTopic.ipynb&#10;ReadingDataWithReadlnQuiz.ipynb">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/TypeCoercion/TypeCoercionQuiz.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/TypeCoercion/TypeCoercionTopic.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -420,14 +420,21 @@
       <option name="project" value="LOCAL" />
       <updated>1753044759254</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="ReadingDataWithReadlnTopic.ipynb&#10;ReadingDataWithReadlnQuiz.ipynb">
+      <option name="closed" value="true" />
+      <created>1753097707800</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1753097707800</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="IfExpression.kt 1" />
     <MESSAGE value="IfExpression Quiz" />
     <MESSAGE value="LoopsRepeatStatement.kt Quiz" />
     <MESSAGE value="WhileLoops.kt" />
@@ -452,7 +459,8 @@
     <MESSAGE value="ArithmeticOperationsTopic.ipynb&#10;ArithmeticOperationsQuiz.ipynb" />
     <MESSAGE value="IncrementAndDecrementTopic.ipynb&#10;IncrementAndDecrementQuiz.ipynb" />
     <MESSAGE value="PropertiesOfBasicTypesTopic.ipynb&#10;PropertiesOfBasicTypesQuiz.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="PropertiesOfBasicTypesTopic.ipynb&#10;PropertiesOfBasicTypesQuiz.ipynb" />
+    <MESSAGE value="ReadingDataWithReadlnTopic.ipynb&#10;ReadingDataWithReadlnQuiz.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="ReadingDataWithReadlnTopic.ipynb&#10;ReadingDataWithReadlnQuiz.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
