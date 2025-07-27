@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="IntegerInActionTopic.ipynb&#10;IntegerInActionQuiz.ipynb" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="IntegerInActionQuiz.ipynb">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/IntegersInAction/IntegerInActionQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/IntegersInAction/IntegerInActionQuiz.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -448,14 +451,21 @@
       <option name="project" value="LOCAL" />
       <updated>1753356706764</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="IntegerInActionQuiz.ipynb">
+      <option name="closed" value="true" />
+      <created>1753442256774</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1753442256774</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="WhileLoops.kt Quizz" />
     <MESSAGE value="Zookeeper Finished" />
     <MESSAGE value="InvokingFunctionsTopic.ipynb&#10;InvokingFunctionsQuiz.ipynb&#10;SimpleChatBotStage1.kt" />
     <MESSAGE value="StandardInputWithJavaScannerTopic.ipynb" />
@@ -480,7 +490,8 @@
     <MESSAGE value="TypeCoercionTopic.ipynb" />
     <MESSAGE value="TypeCoercionQuiz.ipynb" />
     <MESSAGE value="IntegerInActionTopic.ipynb&#10;IntegerInActionQuiz.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="IntegerInActionTopic.ipynb&#10;IntegerInActionQuiz.ipynb" />
+    <MESSAGE value="IntegerInActionQuiz.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="IntegerInActionQuiz.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
