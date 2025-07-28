@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="IntegerInActionQuiz.ipynb">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/RelationalOperators/RelationalOperatorsQuiz.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/RelationalOperators/RelationalOperatorsTopic.ipynb" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="RelationalOperatorsTopic.ipynb&#10;RelationalOperatorsQuiz.ipynb">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/RelationalOperators/RelationalOperatorsQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/RelationalOperators/RelationalOperatorsQuiz.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -468,14 +467,21 @@
       <option name="project" value="LOCAL" />
       <updated>1753633578745</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="RelationalOperatorsTopic.ipynb&#10;RelationalOperatorsQuiz.ipynb">
+      <option name="closed" value="true" />
+      <created>1753636485181</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1753636485181</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zookeeper Finished" />
     <MESSAGE value="InvokingFunctionsTopic.ipynb&#10;InvokingFunctionsQuiz.ipynb&#10;SimpleChatBotStage1.kt" />
     <MESSAGE value="StandardInputWithJavaScannerTopic.ipynb" />
     <MESSAGE value="StandardInputWithJavaScannerQuiz.ipynb" />
@@ -500,7 +506,8 @@
     <MESSAGE value="TypeCoercionQuiz.ipynb" />
     <MESSAGE value="IntegerInActionTopic.ipynb&#10;IntegerInActionQuiz.ipynb" />
     <MESSAGE value="IntegerInActionQuiz.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="IntegerInActionQuiz.ipynb" />
+    <MESSAGE value="RelationalOperatorsTopic.ipynb&#10;RelationalOperatorsQuiz.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="RelationalOperatorsTopic.ipynb&#10;RelationalOperatorsQuiz.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
