@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="UnicodeQuiz.ipynb">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/CharType/CharTypeQuiz.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/CharType/CharTypeTopic.ipynb" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="CharTypeTopic.ipynb&#10;CharTypeQuiz.ipynb">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/WorkingWithString/WorkingWithStringQuiz.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/WorkingWithString/WorkingWithStringTopic.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -500,14 +500,21 @@
       <option name="project" value="LOCAL" />
       <updated>1753813423805</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="CharTypeTopic.ipynb&#10;CharTypeQuiz.ipynb">
+      <option name="closed" value="true" />
+      <created>1753816985381</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1753816985381</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SimpleChatBotStage2.kt" />
     <MESSAGE value="StringBasicTopic.ipynb&#10;StringBasicQuiz.ipynb" />
     <MESSAGE value="IntroductionToKotlintTopic.ipynb&#10;IntroductionToKotlinQuiz.ipynb" />
     <MESSAGE value="BasicliteralsNumbersStringsAndCharactersTopic.ipynb&#10;BasicliteralsNumbersStringsAndCharactersQiz.ipynb&#10;StandarOutputTopic.ipynb&#10;StandartOutputQuiz.ipynb&#10;WritingFirstProgramTopic.ipynb&#10;WritingFirstProgramQuiz.ipynb" />
@@ -532,7 +539,8 @@
     <MESSAGE value="RelationalOperatorsQuiz.ipynb" />
     <MESSAGE value="UnicodeTopic.ipynb" />
     <MESSAGE value="UnicodeQuiz.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="UnicodeQuiz.ipynb" />
+    <MESSAGE value="CharTypeTopic.ipynb&#10;CharTypeQuiz.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="CharTypeTopic.ipynb&#10;CharTypeQuiz.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
