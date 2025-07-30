@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="WorkingWithStringTopic.ipynb&#10;WorkingWithStringQuiz.ipynb">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotProject/SimpleChatBotStage3.kt" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="SimpleChatBotStage3.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/IfExpression/IfExpressionQuiz.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/IfExpression/IfExpressionTopic.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +24,8 @@
       <list>
         <option value="Kotlin Class" />
         <option value="package-info" />
-        <option value="kotlin.jupyter.empty" />
         <option value="Kotlin File" />
+        <option value="kotlin.jupyter.empty" />
       </list>
     </option>
   </component>
@@ -515,14 +516,21 @@
       <option name="project" value="LOCAL" />
       <updated>1753818735560</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="SimpleChatBotStage3.kt">
+      <option name="closed" value="true" />
+      <created>1753819128529</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1753819128529</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="IntroductionToKotlintTopic.ipynb&#10;IntroductionToKotlinQuiz.ipynb" />
     <MESSAGE value="BasicliteralsNumbersStringsAndCharactersTopic.ipynb&#10;BasicliteralsNumbersStringsAndCharactersQiz.ipynb&#10;StandarOutputTopic.ipynb&#10;StandartOutputQuiz.ipynb&#10;WritingFirstProgramTopic.ipynb&#10;WritingFirstProgramQuiz.ipynb" />
     <MESSAGE value="ValuesAndVariablesTopic.ipynb&#10;ValuesAndVariablesQuiz.ipynb" />
     <MESSAGE value="ConstantsAndValVariablesTopic.ipynb&#10;ConstantsAndValVariablesQuiz.ipynb" />
@@ -547,7 +555,8 @@
     <MESSAGE value="UnicodeQuiz.ipynb" />
     <MESSAGE value="CharTypeTopic.ipynb&#10;CharTypeQuiz.ipynb" />
     <MESSAGE value="WorkingWithStringTopic.ipynb&#10;WorkingWithStringQuiz.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="WorkingWithStringTopic.ipynb&#10;WorkingWithStringQuiz.ipynb" />
+    <MESSAGE value="SimpleChatBotStage3.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="SimpleChatBotStage3.kt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
