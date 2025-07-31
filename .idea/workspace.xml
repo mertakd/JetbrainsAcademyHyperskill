@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="IfExpressionQuiz.ipynb">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/Repeat/RepeatQuiz.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/Repeat/RepeatTopic.ipynb" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="RepeatTopic.ipynb&#10;RepeatQuiz.ipynb">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/Ranges/RangesQuiz.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/Ranges/RangesTopic.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,14 +147,6 @@
       <option name="presentableId" value="Default" />
       <updated>1712062632553</updated>
       <workItem from="1712062633709" duration="6510000" />
-    </task>
-    <task id="LOCAL-00001" summary="My First Project With Kotlin">
-      <option name="closed" value="true" />
-      <created>1746983903804</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1746983903804</updated>
     </task>
     <task id="LOCAL-00002" summary="ConstantsAndValVariables.kt">
       <option name="closed" value="true" />
@@ -540,14 +532,21 @@
       <option name="project" value="LOCAL" />
       <updated>1753989232451</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="RepeatTopic.ipynb&#10;RepeatQuiz.ipynb">
+      <option name="closed" value="true" />
+      <created>1753991457313</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1753991457313</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ConstantsAndValVariablesTopic.ipynb&#10;ConstantsAndValVariablesQuiz.ipynb" />
     <MESSAGE value="DataTypesTopic.ipynb&#10;DataTypesQuiz.ipynb" />
     <MESSAGE value="CommentsTopic.ipynb&#10;CommentsQuiz.ipynb" />
     <MESSAGE value="KotlinStyleGuideTopic.ipynb&#10;KotlinStyleGuideQuiz.ipynb" />
@@ -572,7 +571,8 @@
     <MESSAGE value="SimpleChatBotStage3.kt" />
     <MESSAGE value="IfExpressionTopic.ipynb&#10;IfExpressionQuiz.ipynb" />
     <MESSAGE value="IfExpressionQuiz.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="IfExpressionQuiz.ipynb" />
+    <MESSAGE value="RepeatTopic.ipynb&#10;RepeatQuiz.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="RepeatTopic.ipynb&#10;RepeatQuiz.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
