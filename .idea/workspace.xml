@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="IfExpressionTopic.ipynb&#10;IfExpressionQuiz.ipynb">
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="IfExpressionQuiz.ipynb">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/Repeat/RepeatQuiz.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/Repeat/RepeatTopic.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/IfExpression/IfExpressionQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/IfExpression/IfExpressionQuiz.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -531,14 +532,21 @@
       <option name="project" value="LOCAL" />
       <updated>1753898678983</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="IfExpressionQuiz.ipynb">
+      <option name="closed" value="true" />
+      <created>1753989232451</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1753989232451</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ValuesAndVariablesTopic.ipynb&#10;ValuesAndVariablesQuiz.ipynb" />
     <MESSAGE value="ConstantsAndValVariablesTopic.ipynb&#10;ConstantsAndValVariablesQuiz.ipynb" />
     <MESSAGE value="DataTypesTopic.ipynb&#10;DataTypesQuiz.ipynb" />
     <MESSAGE value="CommentsTopic.ipynb&#10;CommentsQuiz.ipynb" />
@@ -563,7 +571,8 @@
     <MESSAGE value="WorkingWithStringTopic.ipynb&#10;WorkingWithStringQuiz.ipynb" />
     <MESSAGE value="SimpleChatBotStage3.kt" />
     <MESSAGE value="IfExpressionTopic.ipynb&#10;IfExpressionQuiz.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="IfExpressionTopic.ipynb&#10;IfExpressionQuiz.ipynb" />
+    <MESSAGE value="IfExpressionQuiz.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="IfExpressionQuiz.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
