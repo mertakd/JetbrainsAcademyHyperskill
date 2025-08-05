@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="&#10;RangesQuiz.ipynb">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/ForLoopAndRanges/ForLoopAndRangesQuiz.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/ForLoopAndRanges/ForLoopAndRangesTopic.ipynb" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="ForLoopAndRangesTopic.ipynb&#10;ForLoopAndRangesQuiz.ipynb">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/ForLoopAndRanges/ForLoopAndRangesQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/ForLoopAndRanges/ForLoopAndRangesQuiz.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/trying.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/trying.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,7 @@
     "Kotlin.Stage3WhatsInsideKt.executor": "Run",
     "Kotlin.Stage4SustainableCareKt.executor": "Run",
     "Kotlin.StandardInputWithJavaScannerKt.executor": "Run",
-    "Kotlin.TryingKt.executor": "Run",
+    "Kotlin.TryingKt.executor": "Debug",
     "Kotlin.WhileLoopsKt.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -148,14 +148,6 @@
       <option name="presentableId" value="Default" />
       <updated>1712062632553</updated>
       <workItem from="1712062633709" duration="6510000" />
-    </task>
-    <task id="LOCAL-00004" summary="Zookeeper Stage1RushIntoPrint.kt">
-      <option name="closed" value="true" />
-      <created>1748205804291</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1748205804291</updated>
     </task>
     <task id="LOCAL-00005" summary="Zookeeper Stage2ShowMeAnAnimal.kt">
       <option name="closed" value="true" />
@@ -541,14 +533,21 @@
       <option name="project" value="LOCAL" />
       <updated>1754233355399</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="ForLoopAndRangesTopic.ipynb&#10;ForLoopAndRangesQuiz.ipynb">
+      <option name="closed" value="true" />
+      <created>1754306363892</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1754306363892</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="KotlinStyleGuideTopic.ipynb&#10;KotlinStyleGuideQuiz.ipynb" />
     <MESSAGE value="NamingVariablesTopic.ipynb&#10;NamingVariableQuiz.ipynb" />
     <MESSAGE value="import" />
     <MESSAGE value="StringTemplatesTopic.ipynb&#10;StringTemplatesQuiz.ipynb" />
@@ -573,7 +572,8 @@
     <MESSAGE value="RepeatTopic.ipynb&#10;RepeatQuiz.ipynb" />
     <MESSAGE value="RangesTopic.ipynb&#10;RangesQuiz.ipynb" />
     <MESSAGE value="&#10;RangesQuiz.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;RangesQuiz.ipynb" />
+    <MESSAGE value="ForLoopAndRangesTopic.ipynb&#10;ForLoopAndRangesQuiz.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="ForLoopAndRangesTopic.ipynb&#10;ForLoopAndRangesQuiz.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
