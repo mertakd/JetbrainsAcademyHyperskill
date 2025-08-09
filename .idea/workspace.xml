@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="SimpleChatBotStage4.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/DeclaringFunctions/DeclaringFunctionsQuiz.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/DeclaringFunctions/DeclaringFunctionsTopic.ipynb" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="DeclaringFunctionsTopic.ipynb&#10;DeclaringFunctionsQuiz.ipynb">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/WhileLoops/WhileLoopsQuiz.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/WhileLoops/WhileLoopsTopic.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/trying.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/trying.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,14 +149,6 @@
       <option name="presentableId" value="Default" />
       <updated>1712062632553</updated>
       <workItem from="1712062633709" duration="6510000" />
-    </task>
-    <task id="LOCAL-00011" summary="WhileLoops.kt">
-      <option name="closed" value="true" />
-      <created>1749416412402</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1749416412403</updated>
     </task>
     <task id="LOCAL-00012" summary="WhileLoops.kt Quizz">
       <option name="closed" value="true" />
@@ -541,14 +534,21 @@
       <option name="project" value="LOCAL" />
       <updated>1754745506916</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="DeclaringFunctionsTopic.ipynb&#10;DeclaringFunctionsQuiz.ipynb">
+      <option name="closed" value="true" />
+      <created>1754760816394</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1754760816394</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="StringTemplatesTopic.ipynb&#10;StringTemplatesQuiz.ipynb" />
     <MESSAGE value="BooleanTypeAndOperationsTopic.ipynb,&#10;BooleanTypeAndOperationsQuiz.ipynb" />
     <MESSAGE value="ArithmeticOperationsTopic.ipynb&#10;ArithmeticOperationsQuiz.ipynb" />
     <MESSAGE value="IncrementAndDecrementTopic.ipynb&#10;IncrementAndDecrementQuiz.ipynb" />
@@ -573,7 +573,8 @@
     <MESSAGE value="ForLoopAndRangesTopic.ipynb&#10;ForLoopAndRangesQuiz.ipynb" />
     <MESSAGE value="ForLoopAndRangesQuiz.ipynb" />
     <MESSAGE value="SimpleChatBotStage4.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="SimpleChatBotStage4.kt" />
+    <MESSAGE value="DeclaringFunctionsTopic.ipynb&#10;DeclaringFunctionsQuiz.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="DeclaringFunctionsTopic.ipynb&#10;DeclaringFunctionsQuiz.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

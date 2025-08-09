@@ -2,65 +2,162 @@ import java.util.Scanner
 
 fun main1() {
 
-    val start = readLine()?.toIntOrNull() ?: return
-    val end = readLine()?.toIntOrNull() ?: return
 
-    for (number in start..end) {
-        when {
-            number % 3 == 0 && number % 5 == 0 -> println("FizzBuzz")
-            number % 3 == 0 -> println("Fizz")
-            number % 5 == 0 -> println("Buzz")
-            else -> println(number)
-        }
+    var i = 0
+
+    while (i < 5) {
+        println(i)
+        i++
     }
+
+    println("Completed")
+
 }
 
 
 fun main2() {
 
-    val n = readLine()?.toIntOrNull() ?: return
-    var min = Int.MAX_VALUE
+    var letter = 'A'
 
-    for (i in 1..n) {
-        val number = readLine()?.toIntOrNull() ?: return
-        if (number < min) {
-            min = number
-        }
+    while (letter <= 'Z') {
+        print(letter)
+        letter++
     }
-
-    println(min)
 }
 
 
+
+
 fun main3() {
-    val n = readLine()?.toIntOrNull() ?: return
-    var isSorted = true
-    var previousNumber = Int.MIN_VALUE
+    val scanner = Scanner(System.`in`)
 
-    for (i in 1..n) {
-        val number = readLine()?.toIntOrNull() ?: return
-        if (number < previousNumber) {
-            isSorted = false
-            break
+    while (scanner.hasNext()) {
+        val next = scanner.next()
+        println(next)
+    }
+}
+
+
+fun main4() {
+
+    do {
+        val n = readln().toInt()
+        println(n)
+    } while (n > 0)
+}
+
+
+fun main5() {
+
+    var i = 3
+    do {
+        println(i)
+        i--
+    } while(i > 3)
+
+}
+
+
+fun main6() {
+
+    var i = 5
+
+    do {
+        i++
+        print("$i ")
+        i -= 2
+    } while (i > 1)
+}
+
+
+fun main7() {
+
+    var maxElement = Int.MIN_VALUE
+    var input: Int
+
+    do {
+        input = readLine()!!.toInt()
+        if (input != 0 && input > maxElement) {
+            maxElement = input
         }
-        previousNumber = number
+    } while (input != 0)
+
+    println(maxElement)
+}
+
+
+fun main8() {
+    var sum = 0
+    var num = readLine()!!.toInt()
+
+    while (num != 0) {
+        sum += num
+        num = readLine()!!.toInt()
     }
 
-    if (isSorted) {
-        println("YES")
-    } else {
-        println("NO")
+    println(sum)
+}
+
+
+fun main9() {
+
+    var n = 0
+    do {
+        val s = readln().toInt()
+        n += s
+    } while (s > 0)
+    print(n)
+}
+
+
+fun main10() {
+    var count = 0
+    var num = readLine()!!.toInt()
+
+    while (num != 0) {
+        count++
+        num = readLine()!!.toInt()
     }
+
+    println(count)
+}
+
+
+fun main11() {
+    val scanner = Scanner(System.`in`)
+    var n = scanner.nextInt()  // Kullanıcıdan sayı alınır
+
+    while (n != 1) {
+        print("$n ")           // Sayıyı yazdır (sonunda boşlukla)
+        n = if (n % 2 == 0) {
+            n / 2              // Çiftse 2'ye böl
+        } else {
+            n * 3 + 1          // Tekse 3n + 1 yap
+        }
+    }
+    print("1")
 }
 
 
 fun main() {
-    val scanner = Scanner(System.`in`)
-    val num = scanner.nextInt()
 
-    for(i in 0..num){
-        println("$i!")
+    var y = 10
+    while (y > 0) {
+        var x = 5
+        x += y
+        y--
     }
-
-    println("Completed, have a nice day!")
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
