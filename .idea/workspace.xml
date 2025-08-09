@@ -7,7 +7,6 @@
     <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="ForLoopAndRangesQuiz.ipynb">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/ForLoopAndRanges/ForLoopAndRangesQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/ForLoopAndRanges/ForLoopAndRangesQuiz.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/trying.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/trying.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,14 +147,6 @@
       <option name="presentableId" value="Default" />
       <updated>1712062632553</updated>
       <workItem from="1712062633709" duration="6510000" />
-    </task>
-    <task id="LOCAL-00008" summary="IfExpression.kt 1">
-      <option name="closed" value="true" />
-      <created>1748885177491</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1748885177491</updated>
     </task>
     <task id="LOCAL-00009" summary="IfExpression Quiz">
       <option name="closed" value="true" />
@@ -541,7 +532,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754565814815</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="ForLoopAndRangesQuiz.ipynb">
+      <option name="closed" value="true" />
+      <created>1754648574162</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1754648574162</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
