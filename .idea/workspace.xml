@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="ForLoopAndRangesQuiz.ipynb">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotProject/SimpleChatBotStage4.kt" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="SimpleChatBotStage4.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/DeclaringFunctions/DeclaringFunctionsQuiz.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/DeclaringFunctions/DeclaringFunctionsTopic.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/trying.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/trying.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +24,8 @@
       <list>
         <option value="Kotlin Class" />
         <option value="package-info" />
-        <option value="kotlin.jupyter.empty" />
         <option value="Kotlin File" />
+        <option value="kotlin.jupyter.empty" />
       </list>
     </option>
   </component>
@@ -148,14 +148,6 @@
       <option name="presentableId" value="Default" />
       <updated>1712062632553</updated>
       <workItem from="1712062633709" duration="6510000" />
-    </task>
-    <task id="LOCAL-00010" summary="LoopsRepeatStatement.kt Quiz">
-      <option name="closed" value="true" />
-      <created>1749315344336</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1749315344336</updated>
     </task>
     <task id="LOCAL-00011" summary="WhileLoops.kt">
       <option name="closed" value="true" />
@@ -541,14 +533,21 @@
       <option name="project" value="LOCAL" />
       <updated>1754744559667</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="SimpleChatBotStage4.kt">
+      <option name="closed" value="true" />
+      <created>1754745506916</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1754745506916</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="import" />
     <MESSAGE value="StringTemplatesTopic.ipynb&#10;StringTemplatesQuiz.ipynb" />
     <MESSAGE value="BooleanTypeAndOperationsTopic.ipynb,&#10;BooleanTypeAndOperationsQuiz.ipynb" />
     <MESSAGE value="ArithmeticOperationsTopic.ipynb&#10;ArithmeticOperationsQuiz.ipynb" />
@@ -573,7 +572,8 @@
     <MESSAGE value="&#10;RangesQuiz.ipynb" />
     <MESSAGE value="ForLoopAndRangesTopic.ipynb&#10;ForLoopAndRangesQuiz.ipynb" />
     <MESSAGE value="ForLoopAndRangesQuiz.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="ForLoopAndRangesQuiz.ipynb" />
+    <MESSAGE value="SimpleChatBotStage4.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="SimpleChatBotStage4.kt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
