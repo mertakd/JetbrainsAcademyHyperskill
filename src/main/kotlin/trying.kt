@@ -32,7 +32,7 @@ fun main2() {
 }
 
 
-fun main() {
+fun main3() {
     val n = readLine()?.toIntOrNull() ?: return
     var isSorted = true
     var previousNumber = Int.MIN_VALUE
@@ -51,4 +51,16 @@ fun main() {
     } else {
         println("NO")
     }
+}
+
+
+fun main() {
+    val scanner = Scanner(System.`in`)
+    val num = scanner.nextInt()
+
+    for(i in 0..num){
+        println("$i!")
+    }
+
+    println("Completed, have a nice day!")
 }
