@@ -120,3 +120,74 @@ package Projects.Remo.RemoProject
  * .git klasörü (.init ile)               file:///tmp/git-bare
  *
  */
+
+
+
+
+/*
+Tamam, sana `git init` → `git remote add origin` sürecini **şema ve oklarla** görselleştiriyorum.
+
+---
+
+## **Git Repository Başlatma ve Remote Bağlama Süreci**
+
+```
+[1] Çalışma Klasörü (Working Directory)
+----------------------------------------
+📂 proje/
+   ├── app.py
+   ├── README.md
+   └── (henüz .git yok)
+
+    |
+    |  git init
+    ↓
+----------------------------------------
+[2] Yerel Git Repository Oluşur
+----------------------------------------
+📂 proje/
+   ├── app.py
+   ├── README.md
+   └── 📂 .git/    ← Git veritabanı ve ayar dosyaları
+       ├── HEAD
+       ├── config
+       ├── objects/
+       └── refs/
+
+    |
+    |  git remote add origin <URL>
+    ↓
+----------------------------------------
+[3] Remote (Uzak Repo) İlişkilendirme
+----------------------------------------
+📂 proje/
+   ├── app.py
+   ├── README.md
+   └── 📂 .git/
+       ├── HEAD
+       ├── config  ← Burada "origin" adıyla <URL> bilgisi eklenir
+       ├── objects/
+       └── refs/
+
+    |
+    ↓
+----------------------------------------
+[4] Push/Pull ile Senkronizasyon
+----------------------------------------
+Yerel Repo (.git)  ⇆  🌐 Uzak Repo (GitHub / GitLab / Local Bare Repo)
+```
+
+---
+
+### 📌 Sürecin Özeti
+
+1. **`git init`** → Mevcut klasörü Git ile takip edilen bir repository’ye dönüştürür.
+2. **`git remote add origin <URL>`** → Bu repository’ye bir uzak depo adresi (URL) ekler ve ona **origin** adını verir.
+3. Artık `git push origin main` veya `git pull origin main` gibi komutlarla uzak depo ile senkronize olabilirsin.
+
+---
+
+İstersen bu şemaya **GitHub senaryosunu** da ekleyip, hem `git push` hem `git pull` yönlerini görselleştirebilirim.
+Böylece yerel repo ↔ GitHub iletişimi tamamen net olur.
+
+ */
