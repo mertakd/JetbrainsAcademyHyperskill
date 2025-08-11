@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="WhileLoopsQuiz.ipynb&#10;SimpleChatBotStage5.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Remo/RemoTopics/StartingWithGit/StartingWithGitQuiz.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Remo/RemoTopics/StartingWithGit/StartingWithGitTopic.ipynb" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="StartingWithGitTopic.ipynb&#10;StartingWithGitQuiz.ipynb&#10;Stage1GlobalSettings.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Remo/RemoTopics/Initialize/InitializeQuiz.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Remo/RemoTopics/Initialize/InitializeTopic.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,14 +148,6 @@
       <option name="presentableId" value="Default" />
       <updated>1712062632553</updated>
       <workItem from="1712062633709" duration="6510000" />
-    </task>
-    <task id="LOCAL-00014" summary="InvokingFunctionsTopic.ipynb&#10;InvokingFunctionsQuiz.ipynb&#10;SimpleChatBotStage1.kt">
-      <option name="closed" value="true" />
-      <created>1749506900628</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1749506900628</updated>
     </task>
     <task id="LOCAL-00015" summary="StandardInputWithJavaScannerTopic.ipynb">
       <option name="closed" value="true" />
@@ -541,14 +533,21 @@
       <option name="project" value="LOCAL" />
       <updated>1754831874511</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="StartingWithGitTopic.ipynb&#10;StartingWithGitQuiz.ipynb&#10;Stage1GlobalSettings.kt">
+      <option name="closed" value="true" />
+      <created>1754919035419</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1754919035419</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="IncrementAndDecrementTopic.ipynb&#10;IncrementAndDecrementQuiz.ipynb" />
     <MESSAGE value="PropertiesOfBasicTypesTopic.ipynb&#10;PropertiesOfBasicTypesQuiz.ipynb" />
     <MESSAGE value="ReadingDataWithReadlnTopic.ipynb&#10;ReadingDataWithReadlnQuiz.ipynb" />
     <MESSAGE value="TypeCoercionTopic.ipynb" />
@@ -573,7 +572,8 @@
     <MESSAGE value="DeclaringFunctionsTopic.ipynb&#10;DeclaringFunctionsQuiz.ipynb" />
     <MESSAGE value="WhileLoopsTopic.ipynb&#10;WhileLoopsQuiz.ipynb" />
     <MESSAGE value="WhileLoopsQuiz.ipynb&#10;SimpleChatBotStage5.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="WhileLoopsQuiz.ipynb&#10;SimpleChatBotStage5.kt" />
+    <MESSAGE value="StartingWithGitTopic.ipynb&#10;StartingWithGitQuiz.ipynb&#10;Stage1GlobalSettings.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="StartingWithGitTopic.ipynb&#10;StartingWithGitQuiz.ipynb&#10;Stage1GlobalSettings.kt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
