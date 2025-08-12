@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="Stage2Initialize.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Remo/RemoTopics/CreateFiles/CommandLineOverviewTopicAndQuiz.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Remo/RemoTopics/CreateFiles/IntroductionToLinuxTopicAndQuiz.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Remo/RemoTopics/CreateFiles/OperatingSystemsTopicAndQuiz.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Remo/RemoTopics/CreateFiles/ParametersAndOptionsTopicAndQuiz.ipynb" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="CommandLineOverviewTopicAndQuiz.ipynb&#10;IntroductionToLinuxTopicAndQuiz.ipynb&#10;OperatingSystemsTopicAndQuiz.ipynb&#10;ParametersAndOptionsTopicAndQuiz.ipynb">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Remo/RemoProject/Stage3CreateFiles.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Remo/RemoProject/Stage4IgnoreIt.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Remo/RemoTopics/CreateFiles/FileDescriptorsAndPipesTopicAndQuiz.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Remo/RemoTopics/CreateFiles/FirstProgramInBashTopicAndQuiz.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Remo/RemoTopics/CreateFiles/FunctionsAndArgumentsTopicAndQuiz.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,14 +151,6 @@
       <option name="presentableId" value="Default" />
       <updated>1712062632553</updated>
       <workItem from="1712062633709" duration="6510000" />
-    </task>
-    <task id="LOCAL-00018" summary="SimpleChatBotStage2.kt">
-      <option name="closed" value="true" />
-      <created>1749809632641</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1749809632641</updated>
     </task>
     <task id="LOCAL-00019" summary="StringBasicTopic.ipynb&#10;StringBasicQuiz.ipynb">
       <option name="closed" value="true" />
@@ -543,14 +536,21 @@
       <option name="project" value="LOCAL" />
       <updated>1754923010384</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="CommandLineOverviewTopicAndQuiz.ipynb&#10;IntroductionToLinuxTopicAndQuiz.ipynb&#10;OperatingSystemsTopicAndQuiz.ipynb&#10;ParametersAndOptionsTopicAndQuiz.ipynb">
+      <option name="closed" value="true" />
+      <created>1755011732347</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1755011732347</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TypeCoercionTopic.ipynb" />
     <MESSAGE value="TypeCoercionQuiz.ipynb" />
     <MESSAGE value="IntegerInActionTopic.ipynb&#10;IntegerInActionQuiz.ipynb" />
     <MESSAGE value="IntegerInActionQuiz.ipynb" />
@@ -575,7 +575,8 @@
     <MESSAGE value="StartingWithGitTopic.ipynb&#10;StartingWithGitQuiz.ipynb&#10;Stage1GlobalSettings.kt" />
     <MESSAGE value="GitInternalStructureTopic.ipynb&#10;GitInternalStructureQuiz.ipynb&#10;Stage2Initialize.kt" />
     <MESSAGE value="Stage2Initialize.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stage2Initialize.kt" />
+    <MESSAGE value="CommandLineOverviewTopicAndQuiz.ipynb&#10;IntroductionToLinuxTopicAndQuiz.ipynb&#10;OperatingSystemsTopicAndQuiz.ipynb&#10;ParametersAndOptionsTopicAndQuiz.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="CommandLineOverviewTopicAndQuiz.ipynb&#10;IntroductionToLinuxTopicAndQuiz.ipynb&#10;OperatingSystemsTopicAndQuiz.ipynb&#10;ParametersAndOptionsTopicAndQuiz.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
