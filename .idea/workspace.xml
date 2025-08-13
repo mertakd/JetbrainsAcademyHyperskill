@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="&#10;ForkAndPullRequest.ipynb&#10;StartingWithGithubTopicAndQuiz.ipynb">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Remo/RemoProject/Stage5Commit.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Remo/RemoTopics/Commit/LocalWorkTopicAndQuiz.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Remo/RemoTopics/Commit/WorkingWithRemoteRepositoryTopicAndQuiz.ipynb" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="ForkAndPullRequestTopicAndQuiz.ipynbd&#10;LocalWorkTopicAndQuiz.ipynb&#10;Stage5Commit.ipynb&#10;WorkingWithRemoteRepositoryTopicAndQuiz.ipynb">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Remo/RemoProject/Stage6Push.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Remo/RemoProject/Stage7Remotes.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/Remo/RemoTopics/Commit/ForkAndPullRequest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/Remo/RemoTopics/Commit/ForkAndPullRequestTopicAndQuiz.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,14 +148,6 @@
       <option name="presentableId" value="Default" />
       <updated>1712062632553</updated>
       <workItem from="1712062633709" duration="6510000" />
-    </task>
-    <task id="LOCAL-00021" summary="BasicliteralsNumbersStringsAndCharactersTopic.ipynb&#10;BasicliteralsNumbersStringsAndCharactersQiz.ipynb&#10;StandarOutputTopic.ipynb&#10;StandartOutputQuiz.ipynb&#10;WritingFirstProgramTopic.ipynb&#10;WritingFirstProgramQuiz.ipynb">
-      <option name="closed" value="true" />
-      <created>1749896255798</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1749896255798</updated>
     </task>
     <task id="LOCAL-00022" summary="ValuesAndVariablesTopic.ipynb&#10;ValuesAndVariablesQuiz.ipynb">
       <option name="closed" value="true" />
@@ -543,14 +533,21 @@
       <option name="project" value="LOCAL" />
       <updated>1755099272767</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="ForkAndPullRequestTopicAndQuiz.ipynbd&#10;LocalWorkTopicAndQuiz.ipynb&#10;Stage5Commit.ipynb&#10;WorkingWithRemoteRepositoryTopicAndQuiz.ipynb">
+      <option name="closed" value="true" />
+      <created>1755101157017</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1755101157018</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="IntegerInActionQuiz.ipynb" />
     <MESSAGE value="RelationalOperatorsTopic.ipynb&#10;RelationalOperatorsQuiz.ipynb" />
     <MESSAGE value="RelationalOperatorsQuiz.ipynb" />
     <MESSAGE value="UnicodeTopic.ipynb" />
@@ -575,7 +572,8 @@
     <MESSAGE value="CommandLineOverviewTopicAndQuiz.ipynb&#10;IntroductionToLinuxTopicAndQuiz.ipynb&#10;OperatingSystemsTopicAndQuiz.ipynb&#10;ParametersAndOptionsTopicAndQuiz.ipynb" />
     <MESSAGE value="FileDescriptorsAndPipesTopicAndQuiz.ipynb&#10;FirstProgramInBashTopicAndQuiz.ipynb&#10;FunctionsAndArgumentsTopicAndQuiz.ipynb&#10;Stage3CreateFiles.ipynb&#10;Stage4IgnoreIt.ipynb" />
     <MESSAGE value="&#10;ForkAndPullRequest.ipynb&#10;StartingWithGithubTopicAndQuiz.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;ForkAndPullRequest.ipynb&#10;StartingWithGithubTopicAndQuiz.ipynb" />
+    <MESSAGE value="ForkAndPullRequestTopicAndQuiz.ipynbd&#10;LocalWorkTopicAndQuiz.ipynb&#10;Stage5Commit.ipynb&#10;WorkingWithRemoteRepositoryTopicAndQuiz.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="ForkAndPullRequestTopicAndQuiz.ipynbd&#10;LocalWorkTopicAndQuiz.ipynb&#10;Stage5Commit.ipynb&#10;WorkingWithRemoteRepositoryTopicAndQuiz.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
