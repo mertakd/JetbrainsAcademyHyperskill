@@ -4,34 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="Stage6Push.ipynb&#10;Stage7Remotes.ipynb">
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="Folders fixed">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleTicTacToe/SimpleTictacToeProjects/Stage1WelcomeToTheBattlefield.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleTicTacToe/SimpleTictacToeProjects/Stage2TheUserIsTheGamemaster.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/BasicliteralsNumbersStringsAndCharactersQiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/BasicLiterals/BasicliteralsNumbersStringsAndCharactersQiz.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/BasicliteralsNumbersStringsAndCharactersTopic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/BasicLiterals/BasicliteralsNumbersStringsAndCharactersTopic.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/CommentsQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/Comments/CommentsQuiz.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/CommentsTopic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/Comments/CommentsTopic.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/ConstantsAndValVariablesQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/ConstantsAndValVariables/ConstantsAndValVariablesQuiz.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/ConstantsAndValVariablesTopic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/ConstantsAndValVariables/ConstantsAndValVariablesTopic.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/DataTypesQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/DataTypes/DataTypesQuiz.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/DataTypesTopic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/DataTypes/DataTypesTopic.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/IntroductionToKotlinQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/IntroductionKotlin/IntroductionToKotlinQuiz.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/IntroductionToKotlintTopic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/IntroductionKotlin/IntroductionToKotlintTopic.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/InvokingFunctions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/InvokingFunctions/InvokingFunctions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/InvokingFunctionsQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/InvokingFunctions/InvokingFunctionsQuiz.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/KotlinStyleGuideQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/KotlinStyleGuide/KotlinStyleGuideQuiz.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/KotlinStyleGuideTopic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/KotlinStyleGuide/KotlinStyleGuideTopic.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/NamingVariableQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/NamingVariables/NamingVariablesQuiz.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/NamingVariablesTopic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/NamingVariables/NamingVariablesTopic.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/StandarOutputTopic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/StandartOutput/StandarOutputTopic.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/StandardInputWithJavaScannerQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/StandartInputWithJavaScanner/StandardInputWithJavaScannerQuiz.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/StandardInputWithJavaScannerTopic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/StandartInputWithJavaScanner/StandardInputWithJavaScannerTopic.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/StandartOutputQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/StandartOutput/StandartOutputQuiz.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/StringBasicQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/StringBasics/StringBasicQuiz.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/StringBasicTopic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/StringBasics/StringBasicTopic.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/ValuesAndVariablesQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/ValuesAndVariables/ValuesAndVariablesQuiz.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/ValuesAndVariablesTopic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/ValuesAndVariables/ValuesAndVariablesTopic.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/WritingFirstProgramQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/WritingFirstProgram/WritingFirstProgramQuiz.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/WritingFirstProgramTopic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/WritingFirstProgram/WritingFirstProgramTopic.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,40 +54,41 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.Build JetbrainsAcademyHyperskill.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.GoKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.IfExpressionKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.InvokingFunctionsKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.LoopsRepeatStatementKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.MyFirstProjectWithKotlinKt.executor&quot;: &quot;Debug&quot;,
-    &quot;Kotlin.MyFirstProjectWithKotlinStage2Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.MyFirstProjectWithKotlinStage3Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Satage2ShowMeAnAnimalKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.SimpleChatBotStage1Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.SimpleChatBotStage2Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Stage1RushIntoPrintKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Stage3WhatsInsideKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Stage4SustainableCareKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.StandardInputWithJavaScannerKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.TryingKt.executor&quot;: &quot;Debug&quot;,
-    &quot;Kotlin.WhileLoopsKt.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;kotlinNotebook&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build JetbrainsAcademyHyperskill.executor": "Run",
+    "Kotlin.GoKt.executor": "Run",
+    "Kotlin.IfExpressionKt.executor": "Run",
+    "Kotlin.InvokingFunctionsKt.executor": "Run",
+    "Kotlin.LoopsRepeatStatementKt.executor": "Run",
+    "Kotlin.MyFirstProjectWithKotlinKt.executor": "Debug",
+    "Kotlin.MyFirstProjectWithKotlinStage2Kt.executor": "Run",
+    "Kotlin.MyFirstProjectWithKotlinStage3Kt.executor": "Run",
+    "Kotlin.Satage2ShowMeAnAnimalKt.executor": "Run",
+    "Kotlin.SimpleChatBotStage1Kt.executor": "Run",
+    "Kotlin.SimpleChatBotStage2Kt.executor": "Run",
+    "Kotlin.Stage1RushIntoPrintKt.executor": "Run",
+    "Kotlin.Stage1WelcomeToTheBattlefieldKt.executor": "Run",
+    "Kotlin.Stage3WhatsInsideKt.executor": "Run",
+    "Kotlin.Stage4SustainableCareKt.executor": "Run",
+    "Kotlin.StandardInputWithJavaScannerKt.executor": "Run",
+    "Kotlin.TryingKt.executor": "Debug",
+    "Kotlin.WhileLoopsKt.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "kotlinNotebook",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\IdeaProjects\JetbrainsAcademyHyperskill\src\main\kotlin\Projects\SimpleChatBot\SimpleChatBotTopics\NamingVariables" />
@@ -121,7 +98,7 @@
       <recent name="C:\Users\Administrator\IdeaProjects\JetbrainsAcademyHyperskill\src\main\kotlin\Projects\SimpleChatBot\SimpleChatBotTopics\StringBasics" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TryingKt">
+  <component name="RunManager">
     <configuration name="GoFkKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Projects.Zookeeper.ZookeeperProjects.GoFkKt" />
       <module name="JetbrainsAcademyHyperskill.main" />
@@ -143,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stage4SustainableCareKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Projects.Zookeeper.ZookeeperProjects.Stage4SustainableCareKt" />
+    <configuration name="Stage1WelcomeToTheBattlefieldKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projects.SimpleTicTacToe.SimpleTictacToeProjects.Stage1WelcomeToTheBattlefieldKt" />
       <module name="JetbrainsAcademyHyperskill.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -159,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Stage1WelcomeToTheBattlefieldKt" />
         <item itemvalue="Kotlin.TryingKt" />
         <item itemvalue="Kotlin.SimpleChatBotStage2Kt" />
         <item itemvalue="Kotlin.SimpleChatBotStage1Kt" />
         <item itemvalue="Kotlin.GoFkKt" />
-        <item itemvalue="Kotlin.Stage4SustainableCareKt" />
       </list>
     </recent_temporary>
   </component>
@@ -176,14 +153,6 @@
       <option name="presentableId" value="Default" />
       <updated>1712062632553</updated>
       <workItem from="1712062633709" duration="6510000" />
-    </task>
-    <task id="LOCAL-00023" summary="ConstantsAndValVariablesTopic.ipynb&#10;ConstantsAndValVariablesQuiz.ipynb">
-      <option name="closed" value="true" />
-      <created>1750008518452</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1750008518452</updated>
     </task>
     <task id="LOCAL-00024" summary="DataTypesTopic.ipynb&#10;DataTypesQuiz.ipynb">
       <option name="closed" value="true" />
@@ -569,14 +538,21 @@
       <option name="project" value="LOCAL" />
       <updated>1755101865370</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Folders fixed">
+      <option name="closed" value="true" />
+      <created>1755103215320</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1755103215320</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="RelationalOperatorsQuiz.ipynb" />
     <MESSAGE value="UnicodeTopic.ipynb" />
     <MESSAGE value="UnicodeQuiz.ipynb" />
     <MESSAGE value="CharTypeTopic.ipynb&#10;CharTypeQuiz.ipynb" />
@@ -601,7 +577,8 @@
     <MESSAGE value="&#10;ForkAndPullRequest.ipynb&#10;StartingWithGithubTopicAndQuiz.ipynb" />
     <MESSAGE value="ForkAndPullRequestTopicAndQuiz.ipynbd&#10;LocalWorkTopicAndQuiz.ipynb&#10;Stage5Commit.ipynb&#10;WorkingWithRemoteRepositoryTopicAndQuiz.ipynb" />
     <MESSAGE value="Stage6Push.ipynb&#10;Stage7Remotes.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stage6Push.ipynb&#10;Stage7Remotes.ipynb" />
+    <MESSAGE value="Folders fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Folders fixed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
