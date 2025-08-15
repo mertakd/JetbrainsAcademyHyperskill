@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="StructuralVsReferentialEquality.ipynb">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleTicTacToe/SimpleTicTacToeTopics/WorkWithMutableLists.ipynb" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="WorkWithMutableLists.ipynb">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleTicTacToe/SimpleTicTacToeTopics/IntroductionToCollections.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/trying.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/trying.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/Ranges/RangesQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/Ranges/RangesQuiz.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/WorkingWithString/WorkingWithStringQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/WorkingWithString/WorkingWithStringQuiz.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,14 +154,6 @@
       <option name="presentableId" value="Default" />
       <updated>1712062632553</updated>
       <workItem from="1712062633709" duration="6510000" />
-    </task>
-    <task id="LOCAL-00028" summary="import">
-      <option name="closed" value="true" />
-      <created>1750349048460</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1750349048460</updated>
     </task>
     <task id="LOCAL-00029" summary="StringTemplatesTopic.ipynb&#10;StringTemplatesQuiz.ipynb">
       <option name="closed" value="true" />
@@ -546,14 +539,21 @@
       <option name="project" value="LOCAL" />
       <updated>1755263369568</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="WorkWithMutableLists.ipynb">
+      <option name="closed" value="true" />
+      <created>1755266507890</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1755266507890</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SimpleChatBotStage3.kt" />
     <MESSAGE value="IfExpressionTopic.ipynb&#10;IfExpressionQuiz.ipynb" />
     <MESSAGE value="IfExpressionQuiz.ipynb" />
     <MESSAGE value="RepeatTopic.ipynb&#10;RepeatQuiz.ipynb" />
@@ -578,7 +578,8 @@
     <MESSAGE value="ProcessingStringsTopicAndQuiz.ipynb" />
     <MESSAGE value="ObjectsAndTheirPropertiesTopicAndQuiz.ipynb" />
     <MESSAGE value="StructuralVsReferentialEquality.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="StructuralVsReferentialEquality.ipynb" />
+    <MESSAGE value="WorkWithMutableLists.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="WorkWithMutableLists.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
