@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="WorkWithMutableLists.ipynb">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleTicTacToe/SimpleTicTacToeTopics/IntroductionToCollections.ipynb" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="IntroductionToCollections.ipynb">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleTicTacToe/SimpleTicTacToeTopics/ListTopicAndQuiz.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/Ranges/RangesQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/Ranges/RangesQuiz.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/WorkingWithString/WorkingWithStringQuiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleChatBot/SimpleChatBotTopics/WorkingWithString/WorkingWithStringQuiz.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/trying.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/trying.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +72,7 @@
     "Kotlin.Stage3WhatsInsideKt.executor": "Run",
     "Kotlin.Stage4SustainableCareKt.executor": "Run",
     "Kotlin.StandardInputWithJavaScannerKt.executor": "Run",
-    "Kotlin.TryingKt.executor": "Run",
+    "Kotlin.TryingKt.executor": "Debug",
     "Kotlin.WhileLoopsKt.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -154,14 +153,6 @@
       <option name="presentableId" value="Default" />
       <updated>1712062632553</updated>
       <workItem from="1712062633709" duration="6510000" />
-    </task>
-    <task id="LOCAL-00029" summary="StringTemplatesTopic.ipynb&#10;StringTemplatesQuiz.ipynb">
-      <option name="closed" value="true" />
-      <created>1750352837904</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1750352837904</updated>
     </task>
     <task id="LOCAL-00030" summary="BooleanTypeAndOperationsTopic.ipynb,&#10;BooleanTypeAndOperationsQuiz.ipynb">
       <option name="closed" value="true" />
@@ -547,14 +538,21 @@
       <option name="project" value="LOCAL" />
       <updated>1755266507890</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="IntroductionToCollections.ipynb">
+      <option name="closed" value="true" />
+      <created>1755278553076</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1755278553076</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="IfExpressionTopic.ipynb&#10;IfExpressionQuiz.ipynb" />
     <MESSAGE value="IfExpressionQuiz.ipynb" />
     <MESSAGE value="RepeatTopic.ipynb&#10;RepeatQuiz.ipynb" />
     <MESSAGE value="RangesTopic.ipynb&#10;RangesQuiz.ipynb" />
@@ -579,7 +577,8 @@
     <MESSAGE value="ObjectsAndTheirPropertiesTopicAndQuiz.ipynb" />
     <MESSAGE value="StructuralVsReferentialEquality.ipynb" />
     <MESSAGE value="WorkWithMutableLists.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="WorkWithMutableLists.ipynb" />
+    <MESSAGE value="IntroductionToCollections.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="IntroductionToCollections.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
