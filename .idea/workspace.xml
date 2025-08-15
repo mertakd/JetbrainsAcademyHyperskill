@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="ProcessingStringsTopicAndQuiz.ipynb">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleTicTacToe/SimpleTicTacToeTopics/ObjectsAndTheirProperties.ipynb" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="ObjectsAndTheirPropertiesTopicAndQuiz.ipynb">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleTicTacToe/SimpleTicTacToeTopics/StructuralVsReferentialEquality.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,14 +152,6 @@
       <option name="presentableId" value="Default" />
       <updated>1712062632553</updated>
       <workItem from="1712062633709" duration="6510000" />
-    </task>
-    <task id="LOCAL-00026" summary="KotlinStyleGuideTopic.ipynb&#10;KotlinStyleGuideQuiz.ipynb">
-      <option name="closed" value="true" />
-      <created>1750100790532</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1750100790532</updated>
     </task>
     <task id="LOCAL-00027" summary="NamingVariablesTopic.ipynb&#10;NamingVariableQuiz.ipynb">
       <option name="closed" value="true" />
@@ -545,14 +537,21 @@
       <option name="project" value="LOCAL" />
       <updated>1755187242874</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="ObjectsAndTheirPropertiesTopicAndQuiz.ipynb">
+      <option name="closed" value="true" />
+      <created>1755189902292</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1755189902292</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CharTypeTopic.ipynb&#10;CharTypeQuiz.ipynb" />
     <MESSAGE value="WorkingWithStringTopic.ipynb&#10;WorkingWithStringQuiz.ipynb" />
     <MESSAGE value="SimpleChatBotStage3.kt" />
     <MESSAGE value="IfExpressionTopic.ipynb&#10;IfExpressionQuiz.ipynb" />
@@ -577,7 +576,8 @@
     <MESSAGE value="Folders fixed" />
     <MESSAGE value="Stage1WelcomeToTheBattlefield.kt&#10;Stage2TheUserIsTheGamemaster.ipynb" />
     <MESSAGE value="ProcessingStringsTopicAndQuiz.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="ProcessingStringsTopicAndQuiz.ipynb" />
+    <MESSAGE value="ObjectsAndTheirPropertiesTopicAndQuiz.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="ObjectsAndTheirPropertiesTopicAndQuiz.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
