@@ -1,20 +1,14 @@
-fun solution(products: List<String>, product: String) {
-
-    val positions = mutableListOf<Int>()
-
-    for (i in products.indices) {
-        if (products[i] == product) {
-            positions.add(i)
-        }
-    }
-    println(positions.joinToString(" "))
-}
-
-
 fun main() {
 
-    //cevaba yazma
-    val products = listOf("Mustard", "Cheese", "Eggs", "Cola", "Eggs")
-    val productToFind = "Eggs"
-    solution(products, productToFind)
+
+
+    val myList: MutableList<Int> = mutableListOf(1,2,3,4,5)
+
+    for(i in 0 until myList.size){
+        myList[i] = myList[i] * 2
+    }
+
+    print(myList.joinToString())
+
+
 }
