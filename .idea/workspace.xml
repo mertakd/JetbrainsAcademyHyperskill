@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="ListTopicAndQuiz.ipynb">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleTicTacToe/SimpleTicTacToeTopics/ForLoopAndLists.ipynb" afterDir="false" />
+    <list default="true" id="001566b0-a159-41e0-8a72-da96c132a28a" name="Changes" comment="ForLoopAndLists.ipynb">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleTicTacToe/SimpleTicTacToeTopics/ForLoopAndLists.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Projects/SimpleTicTacToe/SimpleTicTacToeTopics/ForLoopAndLists.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/trying.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/trying.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,41 +54,41 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.Build JetbrainsAcademyHyperskill.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.GoKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.IfExpressionKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.InvokingFunctionsKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.LoopsRepeatStatementKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.MyFirstProjectWithKotlinKt.executor&quot;: &quot;Debug&quot;,
-    &quot;Kotlin.MyFirstProjectWithKotlinStage2Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.MyFirstProjectWithKotlinStage3Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Satage2ShowMeAnAnimalKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.SimpleChatBotStage1Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.SimpleChatBotStage2Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Stage1RushIntoPrintKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Stage1WelcomeToTheBattlefieldKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Stage3WhatsInsideKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Stage4SustainableCareKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.StandardInputWithJavaScannerKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.TryingKt.executor&quot;: &quot;Debug&quot;,
-    &quot;Kotlin.WhileLoopsKt.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;kotlinNotebook&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build JetbrainsAcademyHyperskill.executor": "Run",
+    "Kotlin.GoKt.executor": "Run",
+    "Kotlin.IfExpressionKt.executor": "Run",
+    "Kotlin.InvokingFunctionsKt.executor": "Run",
+    "Kotlin.LoopsRepeatStatementKt.executor": "Run",
+    "Kotlin.MyFirstProjectWithKotlinKt.executor": "Debug",
+    "Kotlin.MyFirstProjectWithKotlinStage2Kt.executor": "Run",
+    "Kotlin.MyFirstProjectWithKotlinStage3Kt.executor": "Run",
+    "Kotlin.Satage2ShowMeAnAnimalKt.executor": "Run",
+    "Kotlin.SimpleChatBotStage1Kt.executor": "Run",
+    "Kotlin.SimpleChatBotStage2Kt.executor": "Run",
+    "Kotlin.Stage1RushIntoPrintKt.executor": "Run",
+    "Kotlin.Stage1WelcomeToTheBattlefieldKt.executor": "Run",
+    "Kotlin.Stage3WhatsInsideKt.executor": "Run",
+    "Kotlin.Stage4SustainableCareKt.executor": "Run",
+    "Kotlin.StandardInputWithJavaScannerKt.executor": "Run",
+    "Kotlin.TryingKt.executor": "Debug",
+    "Kotlin.WhileLoopsKt.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "kotlinNotebook",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\IdeaProjects\JetbrainsAcademyHyperskill\src\main\kotlin\Projects\SimpleChatBot\SimpleChatBotTopics\NamingVariables" />
@@ -153,14 +153,6 @@
       <option name="presentableId" value="Default" />
       <updated>1712062632553</updated>
       <workItem from="1712062633709" duration="6510000" />
-    </task>
-    <task id="LOCAL-00031" summary="ArithmeticOperationsTopic.ipynb&#10;ArithmeticOperationsQuiz.ipynb">
-      <option name="closed" value="true" />
-      <created>1750532837073</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1750532837073</updated>
     </task>
     <task id="LOCAL-00032" summary="IncrementAndDecrementTopic.ipynb&#10;IncrementAndDecrementQuiz.ipynb">
       <option name="closed" value="true" />
@@ -546,14 +538,21 @@
       <option name="project" value="LOCAL" />
       <updated>1755282312198</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="ForLoopAndLists.ipynb">
+      <option name="closed" value="true" />
+      <created>1755373454699</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1755373454699</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="RepeatTopic.ipynb&#10;RepeatQuiz.ipynb" />
     <MESSAGE value="RangesTopic.ipynb&#10;RangesQuiz.ipynb" />
     <MESSAGE value="&#10;RangesQuiz.ipynb" />
     <MESSAGE value="ForLoopAndRangesTopic.ipynb&#10;ForLoopAndRangesQuiz.ipynb" />
@@ -578,7 +577,8 @@
     <MESSAGE value="WorkWithMutableLists.ipynb" />
     <MESSAGE value="IntroductionToCollections.ipynb" />
     <MESSAGE value="ListTopicAndQuiz.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="ListTopicAndQuiz.ipynb" />
+    <MESSAGE value="ForLoopAndLists.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="ForLoopAndLists.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -600,28 +600,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/trying.kt</url>
-          <line>4</line>
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/trying.kt</url>
-          <line>6</line>
-          <option name="timeStamp" value="75" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/trying.kt</url>
-          <line>7</line>
-          <option name="timeStamp" value="76" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/trying.kt</url>
-          <line>10</line>
-          <option name="timeStamp" value="77" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/trying.kt</url>
-          <line>13</line>
-          <option name="timeStamp" value="78" />
+          <line>18</line>
+          <option name="timeStamp" value="95" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
