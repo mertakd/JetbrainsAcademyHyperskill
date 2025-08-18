@@ -72,7 +72,7 @@
     "Kotlin.Stage3WhatsInsideKt.executor": "Run",
     "Kotlin.Stage4SustainableCareKt.executor": "Run",
     "Kotlin.StandardInputWithJavaScannerKt.executor": "Run",
-    "Kotlin.TryingKt.executor": "Debug",
+    "Kotlin.TryingKt.executor": "Run",
     "Kotlin.WhileLoopsKt.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -153,14 +153,6 @@
       <option name="presentableId" value="Default" />
       <updated>1712062632553</updated>
       <workItem from="1712062633709" duration="6510000" />
-    </task>
-    <task id="LOCAL-00032" summary="IncrementAndDecrementTopic.ipynb&#10;IncrementAndDecrementQuiz.ipynb">
-      <option name="closed" value="true" />
-      <created>1750534919501</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1750534919501</updated>
     </task>
     <task id="LOCAL-00033" summary="PropertiesOfBasicTypesTopic.ipynb&#10;PropertiesOfBasicTypesQuiz.ipynb">
       <option name="closed" value="true" />
@@ -546,7 +538,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755373454699</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="ForLoopAndLists.ipynb">
+      <option name="closed" value="true" />
+      <created>1755462472907</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1755462472907</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -597,11 +597,6 @@
           <url>file://$PROJECT_DIR$/src/main/kotlin/Projects/Zookeeper/ZookeeperTopics/WhileLoops.kt</url>
           <line>1440</line>
           <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/trying.kt</url>
-          <line>18</line>
-          <option name="timeStamp" value="95" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

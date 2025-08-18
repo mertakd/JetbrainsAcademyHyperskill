@@ -1,19 +1,13 @@
 fun main() {
 
-    val size = readLine()!!.toInt()
-    val list: MutableList<Int> = mutableListOf()
+    val mutList = mutableListOf("apple", "banana", "cherry")
 
-    for (i in 0 until size) {
-        list.add(readLine()!!.toInt())
+    // indices → 0..2 (çünkü listenin 3 elemanı var)
+    println(mutList.indices)
+
+
+
+    for (i in mutList.indices) {
+        println("Index $i -> ${mutList[i]}")
     }
-
-    var maxIndex = 0
-    for (i in 1 until list.size) {
-        if (list[i] > list[maxIndex]) {
-            maxIndex = i
-        }
-    }
-
-    println(maxIndex)
-
 }
